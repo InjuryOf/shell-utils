@@ -7,7 +7,7 @@
 # 筛选条件：现支持根据指定时间、前缀匹配、分支白名单三种方式
 
 echo "路径：$0"
-code_origin_url="/Users/yanglei/yanglei/"
+code_origin_url="/Users/yanglei/saas/yanglei/code/"
 origin_list=("service.trade")
 # 前缀匹配条件
 filter=$1
